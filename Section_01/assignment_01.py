@@ -5,8 +5,8 @@
     How would you change the code to meet the requirement?
 
 """
-
-
+remainder = 15 % 4
+print( remainder )
 
 
 

@@ -23,7 +23,10 @@ word = "Cool"
 
 
 # Your code below:
-
+size = len(chars);
+midle = int(size/2); #Change from float to int
+result = chars[0:midle] + word + chars[midle:]
+print(result)
 
 
 
