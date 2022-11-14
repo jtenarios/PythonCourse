@@ -12,8 +12,17 @@ IMPORTANT: you must do this programmatically! Don't just
 original_list = ['cup', 'cereal', 'milk', (8, 4, 3)]
 
 # your code below:
+tuple_list = [];
+tuple_list.append(original_list[3][0])
+tuple_list.append(original_list[3][1])
+tuple_list.append(original_list[3][2])
+tuple_list.sort()
 
+new_tuple = (tuple_list[0], tuple_list[1], tuple_list[2])
+original_list.pop()
+original_list.append(new_tuple)
 
+print(original_list)
 
 
 

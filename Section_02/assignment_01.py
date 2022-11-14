@@ -7,7 +7,12 @@ my_list = [{'Tom': 20000, 'Bill': 12000}, ['car', 'laptop', 'TV']]
 """
 
 
+
 # your code below:
+my_list = [{'Tom': 20000, 'Bill': 12000}, ['car', 'laptop', 'TV']]
+print(my_list[0]['Bill'])
+print(my_list[0].get('Bill'))
+
 
 
 

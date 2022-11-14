@@ -8,11 +8,9 @@ my_list = [(1, 2), (3, 4), (['c', 'd', 'a', 'm'], [3, 9, 4, 12], 4), 'TV', 42]
 
 
 # Your Code Below:
-
-
-
-
-
+my_list[2][0][3] = 'x'
+print(my_list)
+my_list[3] = 'television'
 
 
 print(my_list)

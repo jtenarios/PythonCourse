@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71eccd33-7d7f-425c-ad02-4395be0f10cc" name="Default Changelist" comment="" />
+    <list default="true" id="71eccd33-7d7f-425c-ad02-4395be0f10cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Section_01/.idea/Section_01.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assignments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_02/assignment_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_02/assignment_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_02/assignment_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section_02/assignment_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Section_02/assignment_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,16 +30,23 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1ZXZuuFgkFt4QMFvsacqlysLR0X" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Section_06/project_files/first_folder/second_folder" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Desarollo/SourceTree/PythonCourse&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Section_06/project_files/first_folder/second_folder" />
@@ -40,8 +63,8 @@
       <recent name="$PROJECT_DIR$/Section_001" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.assignment_01 (1)">
-    <configuration name="Assignment_09" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.21">
+    <configuration name="21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -49,11 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_04/Assignment_09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/21.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="assignment_01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assignment_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +93,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_05/assignment_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_02/assignment_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="assignment_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assignment_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_06/assignment_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_02/assignment_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +127,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="assignment_06" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assignment_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_04/assignment_06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_02/assignment_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="assignment_08" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="assignment_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Assignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Section_02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_04/assignment_08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Section_02/assignment_04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.assignment_01 (1)" />
+        <item itemvalue="Python.21" />
+        <item itemvalue="Python.assignment_04" />
+        <item itemvalue="Python.assignment_03" />
+        <item itemvalue="Python.assignment_02" />
         <item itemvalue="Python.assignment_01" />
-        <item itemvalue="Python.Assignment_09" />
-        <item itemvalue="Python.assignment_08" />
-        <item itemvalue="Python.assignment_06" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +191,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -181,85 +205,15 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="553" y="293" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585078602438">
-      <screen x="0" y="23" width="1680" height="961" />
-    </state>
-    <state x="553" y="293" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.961@0.23.1680.961" timestamp="1585078602438" />
-    <state x="553" y="294" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.963@0.23.1680.963" timestamp="1584987668869" />
-    <state width="1659" height="243" key="GridCell.Tab.0.bottom" timestamp="1587848272003">
-      <screen x="0" y="23" width="1680" height="963" />
-    </state>
-    <state width="1659" height="243" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1586812812978" />
-    <state width="1659" height="243" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1586896304281" />
-    <state width="1659" height="243" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1586984046743" />
-    <state width="1659" height="243" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1587246586020" />
-    <state width="1659" height="243" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1587848272003" />
-    <state width="1659" height="245" key="GridCell.Tab.0.bottom/0.23.1680.965@0.23.1680.965" timestamp="1585012234423" />
-    <state width="1659" height="245" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1585077167974" />
-    <state width="1659" height="243" key="GridCell.Tab.0.center" timestamp="1587848272002">
-      <screen x="0" y="23" width="1680" height="963" />
-    </state>
-    <state width="1659" height="243" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1586812812977" />
-    <state width="1659" height="243" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1586896304281" />
-    <state width="1659" height="243" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1586984046743" />
-    <state width="1659" height="243" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1587246586019" />
-    <state width="1659" height="243" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1587848272002" />
-    <state width="1659" height="245" key="GridCell.Tab.0.center/0.23.1680.965@0.23.1680.965" timestamp="1585012234422" />
-    <state width="1659" height="245" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1585077167973" />
-    <state width="1659" height="243" key="GridCell.Tab.0.left" timestamp="1587848272002">
-      <screen x="0" y="23" width="1680" height="963" />
-    </state>
-    <state width="1659" height="243" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1586812812977" />
-    <state width="1659" height="243" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1586896304280" />
-    <state width="1659" height="243" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1586984046743" />
-    <state width="1659" height="243" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1587246586018" />
-    <state width="1659" height="243" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1587848272002" />
-    <state width="1659" height="245" key="GridCell.Tab.0.left/0.23.1680.965@0.23.1680.965" timestamp="1585012234422" />
-    <state width="1659" height="245" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1585077167973" />
-    <state width="1659" height="243" key="GridCell.Tab.0.right" timestamp="1587848272003">
-      <screen x="0" y="23" width="1680" height="963" />
-    </state>
-    <state width="1659" height="243" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1586812812978" />
-    <state width="1659" height="243" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1586896304281" />
-    <state width="1659" height="243" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1586984046743" />
-    <state width="1659" height="243" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1587246586019" />
-    <state width="1659" height="243" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1587848272003" />
-    <state width="1659" height="245" key="GridCell.Tab.0.right/0.23.1680.965@0.23.1680.965" timestamp="1585012234423" />
-    <state width="1659" height="245" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1585077167973" />
-    <state width="1659" height="307" key="GridCell.Tab.1.bottom" timestamp="1586984046739">
-      <screen x="0" y="23" width="1680" height="960" />
-    </state>
-    <state width="1659" height="304" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1586283827002" />
-    <state width="1659" height="307" key="GridCell.Tab.1.bottom/0.23.1680.958@0.23.1680.958" timestamp="1586890018078" />
-    <state width="1659" height="307" key="GridCell.Tab.1.bottom/0.23.1680.960@0.23.1680.960" timestamp="1586984046739" />
-    <state width="1659" height="307" key="GridCell.Tab.1.center" timestamp="1586984046738">
-      <screen x="0" y="23" width="1680" height="960" />
-    </state>
-    <state width="1659" height="304" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1586283827001" />
-    <state width="1659" height="307" key="GridCell.Tab.1.center/0.23.1680.958@0.23.1680.958" timestamp="1586890018077" />
-    <state width="1659" height="307" key="GridCell.Tab.1.center/0.23.1680.960@0.23.1680.960" timestamp="1586984046738" />
-    <state width="1659" height="307" key="GridCell.Tab.1.left" timestamp="1586984046738">
-      <screen x="0" y="23" width="1680" height="960" />
-    </state>
-    <state width="1659" height="304" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1586283827001" />
-    <state width="1659" height="307" key="GridCell.Tab.1.left/0.23.1680.958@0.23.1680.958" timestamp="1586890018077" />
-    <state width="1659" height="307" key="GridCell.Tab.1.left/0.23.1680.960@0.23.1680.960" timestamp="1586984046738" />
-    <state width="1659" height="307" key="GridCell.Tab.1.right" timestamp="1586984046739">
-      <screen x="0" y="23" width="1680" height="960" />
-    </state>
-    <state width="1659" height="304" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1586283827002" />
-    <state width="1659" height="307" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1586890018078" />
-    <state width="1659" height="307" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1586984046739" />
-    <state x="519" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1585079344470">
-      <screen x="0" y="23" width="1680" height="960" />
-    </state>
-    <state x="519" y="315" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1585079344470" />
-    <state x="519" y="315" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1585078575620" />
-    <state x="519" y="317" key="com.intellij.ide.util.TipDialog/0.23.1680.967@0.23.1680.967" timestamp="1585077363934" />
-    <state x="505" y="224" width="670" height="676" key="search.everywhere.popup" timestamp="1585245217225">
-      <screen x="0" y="23" width="1680" height="960" />
-    </state>
-    <state x="505" y="224" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1585245217225" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

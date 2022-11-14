@@ -10,6 +10,18 @@ who owns a bike, a laptop and boat.
 """
 
 # your code below:
+tom_objects = ['jacket', 'car', 'TV']
+mike_objects = ['bike', 'laptop', 'boat']
+my_list = [ {'Tom' : {'age': 22, 'salary': 20000, 'objects': tom_objects }},
+            {'Mike' : {'age': 27, 'salary': 24000, 'objects': mike_objects }} ]
+
+my_list3 = {
+            'Tom' : {'age': 22, 'salary': 20000, 'objects': tom_objects },
+            'Mike' : {'age': 27, 'salary': 24000, 'objects': mike_objects }
+           }
+
+print(my_list[0])
+print(my_list3.get('Tom'))
 
 
 
