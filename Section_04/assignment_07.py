@@ -13,9 +13,29 @@ EXAMPLE:
 """
 
 #Your Code Below:
+def string_match(str_a, str_b):
+    cont =0
 
+    len_a = len(str_a)
+    len_b = len(str_b)
 
+    # Para repetir el bucle con el que tenga menos iteraciones, ya que el resto no importaria
+    len_final = min(len_a, len_b)
 
+    for i in range(len_final - 1):
+        sub_str_a = str_a[i:i+2]
+        sub_str_b = str_b[i:i+2]
+
+        # print(str(i) + ' ' + sub_str_a)
+        # print(str(i) + ' ' + sub_str_b)
+
+        if sub_str_a == sub_str_b:
+            cont += 1
+    return cont
+
+print(string_match('xxcaazz', 'xxbaaz')) #→ 3
+print(string_match('abc', 'abc')) #→ 2
+print(string_match('abc', 'axc')) #→ 0)
 
 
 

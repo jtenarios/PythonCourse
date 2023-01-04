@@ -35,12 +35,32 @@ d= {
 '13@comp1.COM': '205'
 }
 
-
 # Your Code Below:
 # --------------------------------------
+line_list=[]
 
+for line in fr:
+    # fr: capturar el email de cada linea
+    separador_position = line.find('|')
+    email = line[: separador_position]
+    print('email: ' + email)
 
+    # d: si no existe crear nuevo elemento en el diccionario
+    if (d.get(email) is None): #can't find in dictionary
+        # siguiente valor
+        sequence = str(int(max(d.values()))+1)
+        d[email] = sequence
 
+    # d: devolver valor del diccionario
+    dictionary_value = d[email]
+
+    print('dictionany_value: ' + dictionary_value)
+
+    # f: reemplazar email por valor del diccionario
+    line_list.append(dictionary_value + line[separador_position:])
+    print('line_list: ' + str(line_list))
+
+fr = [line_list];
 
 
 

@@ -13,7 +13,20 @@ twelver(9, 3) → True
 """
 
 # Your Code Below:
+def twelver (first_number, second_number):
+    return (first_number == 12 or second_number == 12 or first_number + second_number ==12)
 
+result = twelver(3, 12)
+print(result)
+
+result = twelver(3, 12)
+print(result)
+
+result = twelver(9, 3)
+print(result)
+
+result = twelver(4, 9)
+print(result)
 
 
 

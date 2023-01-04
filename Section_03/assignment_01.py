@@ -6,8 +6,10 @@
 """
 
 # your code below:
+def merge_lists(list_a, list_b):
+    return list_a + list_b
 
-
+print(merge_lists([1,2], ['a','b']))
 
 
 

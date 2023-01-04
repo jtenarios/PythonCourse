@@ -17,12 +17,29 @@ last2('axxxaaxx') → 2
 """
 
 # Your Code Below:
+def last2(str):
+    word = str[:-2]
+    sub_str = str[-2:]
+    cont = 0
+
+    print("word:" + word)
+    print("sub_str:" + sub_str)
+
+    for i in range(len(word)):
+        # print(word[i:i+2])
+        if (word[i:i+2] == sub_str):
+            cont += 1
+
+    return cont
+
+
 
 
 
 print(last2('hixxhi')) #→ 1
 print(last2('xaxxaxaxx')) #→ 1
 print(last2('axxxxaaxx')) #→ 3
+print(last2('ab')) #→ 3
 
 
 

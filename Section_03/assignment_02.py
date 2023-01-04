@@ -7,8 +7,12 @@
     Make sure to test the function.
 """
 # Your Code Below:
+def separate(my_string):
+    return list(my_string)
 
+print(separate('Jaime'))
 
+##fail, no supe completarlo sin ver la respuesta
 
 
 

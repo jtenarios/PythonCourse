@@ -14,12 +14,15 @@ first3([1, 2, 3, 4, 5]) → False
 """
 
 # Your Code Below:
+def first3 (my_list):
+    end = len(my_list)
+    if end > 4:
+        end = 4
 
-
-
-
-
-
+    for i in range(end):
+        if (my_list[i] == 6):
+            return True
+    return False
 
 print(first3([1,2,6,3,0,0])) # true
 print(first3([1,2,3,3,0,6])) # false
